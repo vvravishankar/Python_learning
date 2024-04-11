@@ -1,6 +1,5 @@
 # In Python, the print() function is quite versatile and can be used in various ways to display output
 
-
 #Printing a String:
 print("Hello, world!")
 
