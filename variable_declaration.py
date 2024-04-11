@@ -36,7 +36,5 @@ Avoid Starting with Underscore:
 Variable names starting with a single underscore (_variable) are considered "private" and are not imported when using from module import *.
 Variable names starting and ending with double underscores (__variable__) are special Python variables used for system-defined names (e.g., __init__, __name__).
 Following these naming conventions ensures that your code is clear, readable, and consistent, making it easier for you and others to understand and maintain.
-
 '''
-
 
