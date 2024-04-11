@@ -1,11 +1,10 @@
-
-Single Variable Assignment:
+#Single Variable Assignment:
 x = 10
 
-Multiple Variable Assignment:
+#Multiple Variable Assignment:
 a, b = 10, 20
 
-Dynamic Assignment:
+#Dynamic Assignment:
 x = 10
 x = "hello"
 
