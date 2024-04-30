@@ -1,0 +1,22 @@
+<library>
+  <book>
+    <title>Python Programming</title>
+    <author>John Doe</author>
+    <published_year>2020</published_year>
+    <publisher>Publishing House A</publisher>
+    <categories>
+      <category>Programming</category>
+      <category>Python</category>
+    </categories>
+  </book>
+  <book>
+    <title>Data Science Handbook</title>
+    <author>Jane Smith</author>
+    <published_year>2019</published_year>
+    <publisher>Publishing House B</publisher>
+    <categories>
+      <category>Data Science</category>
+      <category>Machine Learning</category>
+    </categories>
+  </book>
+</library>
